@@ -1,0 +1,8 @@
+**build/
+**devel/
+**.catkin_workspace
+**install
+**log
+ROS/R5Pro_ws/src/CMakeLists.txt
+**__pycache__
+**api
