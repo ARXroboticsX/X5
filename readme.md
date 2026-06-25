@@ -12,9 +12,6 @@
 | X5（2023）     | 标准单臂<br>       | ![1782031879369](images/readme/1782031879369.png) | 单轨二指夹爪 |
 | X5（2025）<br> | AC one上机械臂<br> | ![1782031887880](images/readme/1782031887880.png) | 双轨二指夹爪 |
 
-# 仓库地址
-
-https://github\.com/ARXroboticsX/X5\.git
 
 # 00硬件设备连接
 
